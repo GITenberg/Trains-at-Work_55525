@@ -1,0 +1,23 @@
+_repo: Trains-at-Work_55525
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Millard, David Lyle
+    gutenberg_agent_id: '48387'
+    url: http://www.gutenberg.org/2009/agents/48387
+  - agent_name: Folsom, Mary Elting
+    gutenberg_agent_id: '48359'
+    url: http://www.gutenberg.org/2009/agents/48359
+description: ''
+gutenberg_issued: '2017-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Trains at Work
+url: http://www.gutenberg.org/ebooks/55525
